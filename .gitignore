@@ -1,0 +1,5 @@
+.vscode
+.nyc_output
+.reify-cache
+node_modules
+package-lock.json
